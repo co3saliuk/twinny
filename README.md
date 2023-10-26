@@ -1,4 +1,4 @@
-# twinny
+# twinny fork
 
 **twinny** is a locally hosted AI code completion plugin for Visual Studio Code, designed to work seamlessly with the [twinny-api](https://github.com/rjmacarthy/twinny-api).
 
